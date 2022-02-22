@@ -2,13 +2,15 @@
   <head> 
     <title>Hello World</title>
     <style>
-        .blue{color:blue;}
-        .red{color:red;}
-         
+       .blue{color:blue;}
+       .red{color:red;}
+       #big {font-size:120%;}
+     <style>
   </head>
   <body>
     <div>
       <h1>Top Level Heading</h1>
-      <h2>Sencond Level Heading</h2>
+      <h2>Level 2 Heading</h2>
+      <p>
   </body>
 </html>
